@@ -161,3 +161,6 @@ document.addEventListener("DOMContentLoaded", function () {
     console.error("GSAP não carregou. Verifique o CDN.");
     return;
   }});
+
+
+  
