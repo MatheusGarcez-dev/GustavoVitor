@@ -149,9 +149,9 @@
     overflow: hidden !important;
     cursor: pointer !important;
     outline-offset: 4px !important;
-    padding: 1.4rem 4.5rem !important;
+    padding: 1.4rem 3.5rem !important;
     font-family: "Degular", sans-serif !important; /*Puxar a fonte*/
-    font-size: 1rem !important; /*tamanho da fonte*/
+    font-size: 0.8rem !important; /*tamanho da fonte*/
     line-height: 1.2 !important;
     border: 1px solid transparent !important;
     border-radius: 360px !important;
