@@ -420,7 +420,7 @@ button {
 .card2 {
   position: relative;
   width: 370px;
-  height: 250px;
+  height: 280px;
   padding: 10px;
   border-radius: 14px;
   z-index: 1111;
@@ -437,7 +437,7 @@ button {
   top: 5px;
   left: 5px;
   width: 360px;
-  height: 240px;
+  height: 270px;
   z-index: 2;
   background: black;
   backdrop-filter: blur(24px);
