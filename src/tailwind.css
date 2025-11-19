@@ -419,8 +419,9 @@ button {
 /* From Uiverse.io by dylanharriscameron */
 .card2 {
   position: relative;
-  width: 400px;
+  width: 370px;
   height: 250px;
+  padding: 10px;
   border-radius: 14px;
   z-index: 1111;
   overflow: hidden;
@@ -435,7 +436,7 @@ button {
   position: absolute;
   top: 5px;
   left: 5px;
-  width: 390px;
+  width: 360px;
   height: 240px;
   z-index: 2;
   background: black;
